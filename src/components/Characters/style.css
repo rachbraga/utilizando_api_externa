@@ -1,0 +1,12 @@
+h1 {
+  font-size: 60px;
+  text-shadow: 10px 7px 7px rgb(10, 85, 85);
+  color: rgb(9, 58, 45);
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
